@@ -1,6 +1,2 @@
 This is a textfile for Internship
-<<<<<<< HEAD
-Modified in local master
-=======
 Modified in local main
->>>>>>> main
