@@ -1,7 +1,1 @@
-HelloHelloHelloHello
-<<<<<<< HEAD
-File edited
-Edited now in local:main branch
-=======
-Same as before
->>>>>>> master
+This is abc file

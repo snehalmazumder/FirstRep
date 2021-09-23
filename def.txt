@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This file is from main:local branch
-This file has been modified.
-=======
-This file is from master:local branch
->>>>>>> master
+This is def file
